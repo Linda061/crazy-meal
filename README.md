@@ -6,3 +6,5 @@
 2. **Were there any parts of the lab you found challenging?** 
 
    Making orders save properly in the local storage and show up again after refreshing
+ # deploying:
+ [link](https://linda061.github.io/crazy-meal/)
